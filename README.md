@@ -3,11 +3,26 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 A complete end-to-end Data Analytics and Machine Learning project developed as part of the NTI Data Analytics Program.
 
 The project analyzes customer behavior in direct marketing campaigns, identifies the factors that influence term deposit subscriptions, and builds predictive machine learning models to support data-driven marketing decisions.
 
+## 📑 Table of Contents
+
+- Project Overview
+- Business Problem
+- Dataset
+- Project Workflow
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis
+- Machine Learning
+- Power BI Dashboard
+- Key Business Insights
+- Technologies Used
+- Repository Structure
+- Future Improvements
 
 ## 📌 Project Overview
 
