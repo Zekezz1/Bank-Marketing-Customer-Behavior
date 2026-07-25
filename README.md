@@ -138,3 +138,17 @@ Future work may include:
 - Deploying the predictive model as a web application.
 - Integrating real-time prediction into marketing workflows.
 - Expanding the dashboard with additional KPIs and business metrics.
+
+## 📷 Dashboard Preview
+
+### Campaign Overview
+
+![Campaign Overview](assets/campaign-overview.png)
+
+### Customer Segments
+
+![Customer Segments](assets/customer-segments.png)
+
+### Campaign Effectiveness
+
+![Campaign Effectiveness](assets/campaign-effectiveness.png)
