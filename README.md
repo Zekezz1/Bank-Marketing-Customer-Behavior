@@ -1,5 +1,8 @@
 # 🏦 Bank Marketing & Customer Behavior Analysis
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 A complete end-to-end Data Analytics and Machine Learning project developed as part of the NTI Data Analytics Program.
 
 The project analyzes customer behavior in direct marketing campaigns, identifies the factors that influence term deposit subscriptions, and builds predictive machine learning models to support data-driven marketing decisions.
